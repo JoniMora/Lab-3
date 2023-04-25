@@ -7,7 +7,14 @@ Aplicacion hibrida que consume una API de noticias mundiales. Utilizando Ionic y
 Visualizacion desde la web: 
 ![](https://github.com/JoniMora/News-page/blob/master/img/News%20web.png)
 
+Visualizacion de los encabezados:
+![](https://github.com/JoniMora/News-page/blob/master/img/News%20Encabezados.png)
+
 Visualización desde un dispositivo android (limitado por el CORS):
+![](https://github.com/JoniMora/News-page/blob/master/img/News%20en%20mobile.png)
+
+Visualizacion de opciones cuando se utiliza un dispositivo mobile (tambien cuanta con una opcion de compartir):
+![](https://github.com/JoniMora/News-page/blob/master/img/News%20en%20mobile%20options.png)
 
 
 API: 'https://newsapi.org'
