@@ -5,7 +5,7 @@
 Aplicacion hibrida que consume una API de noticias mundiales. Utilizando Ionic y está construido sobre tecnologías web: HTML, CSS y JavaScript. Como Framware se utiliza Angular
 
 Visualizacion desde la web: 
-![](LINK)
+![](https://github.com/JoniMora/News-page/blob/master/img/News%20web.png)
 
 Visualización desde un dispositivo android (limitado por el CORS):
 
