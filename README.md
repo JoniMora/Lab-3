@@ -19,14 +19,22 @@ Visualizacion de opciones cuando se utiliza un dispositivo mobile (tambien cuant
 
 API: 'https://newsapi.org'
 
+Código: 'https://github.com/JoniMora/News-page'
+
 
 ####Crypto
 
 Aplicacion para dispotivos móviles con React-native que consume una API de criptomonedas. Utilizando EXPO para desplegarla en iOS
 
-Visualización  desde un dispotivo iOS"
+Visualización  desde un dispotivo iOS:
+![](https://github.com/JoniMora/JCrypto/blob/master/img/Crypto%20view.png)
+
+Visualizacion utilizando el buscador:
+![](https://github.com/JoniMora/JCrypto/blob/master/img/Crypto%20funcion%20search.png)
 
 API: 'https://www.coingecko.com/es/api'
+
+Código: 'https://github.com/JoniMora/JCrypto'
 
 
 ####Rick & Morty
@@ -34,6 +42,16 @@ API: 'https://www.coingecko.com/es/api'
 Aplicacion web donde se consume la API de Rick and Morty y nos lista todos los personajes de la serie con alguna descripción. Se utilizo como framework VUE en donde se implemento HTML, CSS Y JS.
 
 
-Visualizacion: 
+Visualización de la pagina:
+![](https://github.com/JoniMora/Rick-Morty-page/blob/master/img/R%26M%20home%20view.png)
+
+Visualización de la parte inferior:
+![](https://github.com/JoniMora/Rick-Morty-page/blob/master/img/R%26M%20end%20view.png)
+
+Visualización de los datos de los personajes seleccionados:
+![](https://github.com/JoniMora/Rick-Morty-page/blob/master/img/R%26M%20info.png)
+
 
 API: ‘https://rickandmortyapi.com/api/character‘
+
+Código: 'https://github.com/JoniMora/Rick-Morty-page' 
